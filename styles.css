@@ -23,7 +23,7 @@ header {
 }
 
 header .texture {
-    background-image: url(/images/header-background.webp);
+    background-image: url(images/header-background.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 1920px;
