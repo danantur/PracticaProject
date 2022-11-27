@@ -74,7 +74,7 @@ header .search input[type="search"]:focus-visible {
 }
 
 header .search input[type="submit"] {
-    background-image: url(/images/Arrow\ 1.png);
+    background-image: url(images/Arrow\ 1.png);
     background-color: #FFBF00;
     background-repeat: no-repeat;
     background-position: center;
